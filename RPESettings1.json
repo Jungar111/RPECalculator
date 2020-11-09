@@ -1,0 +1,53 @@
+{
+    "Squat":{
+        "RepMax":{
+            "1RM" : null,
+            "3RM" : null,
+            "5RM" : null,
+            "10RM" : null
+        },
+        "History": {
+            "Lift": {
+                "Date" : null,
+                "Weight":null,
+                "Reps" : null,
+                "RPE" : null
+            }
+        },
+        "Target": null
+    },
+    "Bench":{
+        "RepMax":{
+            "1RM" : null,
+            "3RM" : null,
+            "5RM" : null,
+            "10RM" : null
+        },
+        "History": {
+            "Lift": {
+                "Date" : null,
+                "Weight":null,
+                "Reps" : null,
+                "RPE" : null
+            }
+        },
+        "Target": null
+    },
+    "Deadlift":{
+        "RepMax":{
+            "1RM" : null,
+            "3RM" : null,
+            "5RM" : null,
+            "10RM" : null
+        },
+        "History": {
+            "Lift": {
+                "Date" : null,
+                "Weight":null,
+                "Reps" : null,
+                "RPE" : null
+            }
+        },
+        "Target": null
+    }
+}

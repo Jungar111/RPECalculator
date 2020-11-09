@@ -1,0 +1,15 @@
+{
+  "name": "RPECalculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^10.1.5",
+    "electron-json-storage": "^4.3.0",
+    "jQuery": "^1.7.4",
+    "jquery": "^3.5.1"
+  }
+}
